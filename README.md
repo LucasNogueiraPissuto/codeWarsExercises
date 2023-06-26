@@ -1,5 +1,5 @@
 # codeWarsExercises
-Repositório para guardar exercícios de logica do CodeWars
+Repositório para guardar exercícios de logica do CodeWars <br>
 Abaixo estão o enunciado de cada exercício neste repostório
 
 # BreakCamalCase
