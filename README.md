@@ -2,7 +2,7 @@
 Repositório para guardar exercícios de logica do CodeWars. <br>
 Abaixo estão o enunciado de cada exercício neste repostório.
 
-### BreakCamalCase
+## BreakCamalCase
 Complete the solution so that the function will break up camel casing, using a space between words.
 
 <strong>Example</strong>
@@ -14,7 +14,7 @@ Complete the solution so that the function will break up camel casing, using a s
 <br>
 <br>
 
-### Build Tower
+## Build Tower
 Build a pyramid-shaped tower, as an array/list of strings, given a positive integer number of floors. A tower block is represented with "*" character.
 
 For example, a tower with 3 floors looks like this:
