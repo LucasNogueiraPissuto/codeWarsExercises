@@ -13,6 +13,7 @@ Complete the solution so that the function will break up camel casing, using a s
 ```
 <br>
 <br>
+
 ### Build Tower
 Build a pyramid-shaped tower, as an array/list of strings, given a positive integer number of floors. A tower block is represented with "*" character.
 
