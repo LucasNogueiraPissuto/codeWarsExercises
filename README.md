@@ -43,10 +43,23 @@ And a tower with 6 floors looks like this:
 
 Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
 
-Example
+<strong>Example</strong>
 ```java
 Kata.createPhoneNumber(new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 0}) // => returns "(123) 456-7890"
 ```
 The returned format must be correct in order to complete this challenge.
 
 Don't forget the space after the closing parentheses!
+<br>
+<br>
+## ConvertStringToCamelCase
+
+Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case). The next words should be always capitalized.
+
+<strong>Examples</strong> 
+<br>
+```"the-stealth-warrior"``` gets converted to ```"theStealthWarrior"```
+
+```"The_Stealth_Warrior"``` gets converted to ```"TheStealthWarrior"```
+
+```"The_Stealth-Warrior"``` gets converted to ```"TheStealthWarrior"```
