@@ -111,3 +111,9 @@ For example <strong>(Input --> Output)</strong>:
 999 --> 4 (because 9*9*9 = 729, 7*2*9 = 126, 1*2*6 = 12, and finally 1*2 = 2)
 4 --> 0 (because 4 is already a one-digit number)
 ```
+## Vowel Count
+Return the number (count) of vowels in the given string.
+
+We will consider `a`, `e`, `i`, `o`, `u` as vowels for this Kata (but not `y`).
+
+The input string will only consist of lower case letters and/or spaces.
