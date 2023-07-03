@@ -138,10 +138,8 @@ printer_error(s) => "0/14"
 s="aaaxbbbbyyhwawiwjjjwwm"
 printer_error(s) => "8/22"
 ```
-<br>
-<br>
-## Sort the Odd <br>
-You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.
+## Sort the Odd
+You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions. <br>
 <strong>Exemples</strong>
 ```
 [7, 1]  =>  [1, 7]
