@@ -155,3 +155,11 @@ The input will always be valid (numbers will be an array of length 2 or greater,
 ```java
 two_sum([1, 2, 3], 4) == {0, 2}
 ```
+## WriteNumberInExpandedForm
+You will be given a number and you will need to return it as a string in Expanded Form. For example:
+```java
+Kata.expandedForm(12); # Should return "10 + 2"
+Kata.expandedForm(42); # Should return "40 + 2"
+Kata.expandedForm(70304); # Should return "70000 + 300 + 4"
+```
+NOTE: All numbers will be whole numbers greater than 0.
